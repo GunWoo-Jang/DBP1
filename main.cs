@@ -38,6 +38,8 @@ namespace 과제2_1 {
             que.NumOfElements(); // 원소 개수 반환
 
             que.element_seach(); // 모든 요소 출력
+
+            Console.WriteLine("안녕히가세요");
         }
     }
 }
